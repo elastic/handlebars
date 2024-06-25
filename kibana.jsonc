@@ -1,5 +1,0 @@
-{
-  "type": "shared-common",
-  "id": "@elastic/handlebars",
-  "owner": "@elastic/kibana-security"
-}
