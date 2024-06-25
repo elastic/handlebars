@@ -1,8 +1,11 @@
 {
   "name": "@elastic/handlebars",
+  "description": "A custom version of the handlebars package which, to improve security, does not use 'eval' or 'new Function'",
   "version": "1.0.0",
   "private": false,
   "license": "MIT",
+  "author": "https://www.elastic.co/",
+  "keywords": ["kbn/handlebars", "kbn-handlebars", "handlebars no eval"],
   "scripts": {
     "test": "jest"
   },
