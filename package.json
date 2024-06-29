@@ -6,6 +6,8 @@
   "license": "MIT",
   "author": "https://www.elastic.co/",
   "keywords": ["kbn/handlebars", "kbn-handlebars", "handlebars no eval"],
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest",
     "compile": "tsc",
