@@ -7,7 +7,10 @@
   "author": "https://www.elastic.co/",
   "keywords": ["kbn/handlebars", "kbn-handlebars", "handlebars no eval"],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "compile": "tsc",
+    "build": "tsc",
+    "watch": "tsc -w"
   },
   "dependencies": {
     "handlebars": "4.7.8"
