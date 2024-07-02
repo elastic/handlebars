@@ -15,7 +15,6 @@
   "scripts": {
     "build": "tsc",
     "clean": "rimraf lib",
-    "compile": "tsc",
     "test": "jest",
     "watch": "tsc -w"
   },
