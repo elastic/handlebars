@@ -14,7 +14,7 @@
     "incremental": true,
     "isolatedModules": true,
     "lib": [
-      "esnext"
+      "es2018"
     ],
     "module": "commonjs",
     "moduleResolution": "node",
@@ -29,7 +29,7 @@
     "sourceMap": true,
     "strict": true,
     "strictNullChecks": true,
-    "target": "esnext",
+    "target": "es2018",
     "types": [
       "node",
       "jest"
